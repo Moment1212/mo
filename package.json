@@ -33,8 +33,8 @@
   "dependencies": {
     "@metamask/key-tree": "^7.1.1",
     "@metamask/providers": "^11.0.0",
-    "@metamask/snaps-controllers": "0.34.1-preview.9f346b9",
-    "@metamask/snaps-utils": "0.34.1-preview.9f346b9",
+    "@metamask/snaps-controllers": "0.34.1-preview.38de57f6",
+    "@metamask/snaps-utils": "0.34.1-preview.38de57f6",
     "@metamask/utils": "^6.0.1",
     "@types/uuid": "^9.0.1",
     "superstruct": "^1.0.3",
